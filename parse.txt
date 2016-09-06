@@ -1,0 +1,7 @@
+/////////////////////////////////////////////
+//NAME: Supakorn Wongsawang                  
+//ID: 5910500147                             
+//PROGRAM: parse.txt                         
+//DATE: 11 Aug 2016                          
+/////////////////////////////////////////////
+Compile ERROR at line 7 Format Exception Because int.Parse() cannot convert string(that not only number) to integer 

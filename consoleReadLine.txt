@@ -1,0 +1,8 @@
+/////////////////////////////////////////////
+//NAME: Supakorn Wongsawang                  
+//ID: 5910500147                             
+//PROGRAM: consoleReadLine.txt               
+//DATE: 11 Aug 2016                          
+/////////////////////////////////////////////
+4. User input string and then output to be string and input charecter and input charector and then output ascii of this charector.
+4.1 Console.Read() is read only first character thar user input but Console.ReadLine() is read every charecter thet user input until they found charecter '\n'.

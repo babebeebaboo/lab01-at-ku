@@ -1,0 +1,11 @@
+/////////////////////////////////////////////
+//NAME: Supakorn Wongsawang                  
+//ID: 5910500147                             
+//PROGRAM: namespace.txt                     
+//DATE: 11 Aug 2016                          
+/////////////////////////////////////////////
+6 Hello
+Hello CPE
+6.1 Hello
+Hello CPE
+6.2  In line 7 program use Console.WriteLine in System namespace so line 17 is using Console.WriteLine from System library. 

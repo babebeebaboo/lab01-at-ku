@@ -1,0 +1,15 @@
+/////////////////////////////////////////////
+//NAME: Supakorn Wongsawang                  
+//ID: 5910500147                             
+//PROGRAM: convertTo.txt                     
+//DATE: 11 Aug 2016                          
+/////////////////////////////////////////////
+C# dont have Convert.ToInt() and Convert.Toint() function So line 6 and 8 will be compiled ERROR.
+in line 6 and 8 you need to use Convert.ToInt32().
+ANS is 
+c=4
+d=3
+if you use Convert.ToInt32() with double so if you have decimal number under 5, this method will ignore decimal number, but if decimal number over 5, it will increase the first integer before the decimal point by 1. if decimal number is 5 and the first interger before decimal point is even, the method will ignore to increase and do nothing. On the other hand, if it's the odd number, the method will increase the first integer before decimal point by one.  
+e=5
+f=6
+g is not number so can't define g to be integer. So if you use single quote replace double quote Convert.Int32 funcyion will return ascii of g value.

@@ -1,0 +1,23 @@
+/////////////////////////////////////////////
+//NAME: Supakorn Wongsawang                  
+//ID: 5910500147                             
+//PROGRAM: kor16.txt                         
+//DATE: 13 Aug 2016                          
+/////////////////////////////////////////////
+ from this activities i have learn about how to writing code beautifully, how to use console.write console.writeline, how to convert type of value, how to read and edit code, how to use for if else if else, and how to think like programmer.
+
+1. c# is case sensitive language.
+2. Know about multi dimention arrays. AND how to use Length of array.
+3. Using Compare Operator in c# AND if if else statement.
+4. Compare Console.Read Console.ReadLine
+5. How to use Escape Character in c#.
+6. Know abous class and namespace 
+7. Using different Data type
+8. How to use {0} {1} {2} in Console.Write()
+9. How to Comment a Code
+10,11.How to calculate math in c#
+12.HOw to beautify code
+13.using Convert.ToInt32()
+14.using int.Parse()
+15.How to use class and method.
+

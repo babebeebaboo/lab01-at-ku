@@ -1,0 +1,18 @@
+/////////////////////////////////////////////
+//NAME: Supakorn Wongsawang                  
+//ID: 5910500147                             
+//PROGRAM: output.txt                        
+//DATE: 11 Aug 2016                          
+/////////////////////////////////////////////
+string a = "CPE"
+int b = 30;
+double c = 5.52;
+---OUTPUT---
+CPE 30 5.52
+30 CPE 5.52
+5.52 30 CPE
+Mike Mike Mike
+---END OF OUTPUT---
+---ANSWER---
+from this output you can find that c# assign string a to {0}, int b to {1}, double c to {2} so when you use function Console.WriteLine("{1} {1} {1}",a,b,c); program will output value b three times.
+---END OF ANSWER---

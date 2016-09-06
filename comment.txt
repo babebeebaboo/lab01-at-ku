@@ -1,0 +1,34 @@
+/////////////////////////////////////////////
+//NAME: Supakorn Wongsawang                  
+//ID: 5910500147                             
+//PROGRAM: comment.txt                       
+//DATE: 11 Aug 2016                          
+/////////////////////////////////////////////
+9.1 Compile Error Because you don't initialize type of a before using it AND dont have semicolon at the end of function on line 12.
+9.2  Program will print We are CPE 29 Times and then print value of a on screen and line break if you have semicolon after function at the end of line 12. if you dont have semicolon after function at the end of line 12, its will compiled ERROR.
+9.3 
+// using system libraly
+using System;
+//Class name Comment
+class Comment 
+{
+	// Main of Comment Class
+	static void Main(string[] args)
+	{
+		//Print Hello World on screen and line break
+		Console.WriteLine("Hello World");
+			//initialize a as integer ans a=1
+			int a=1;
+		//loop from i=1 to i<30 by i=i+1
+		for(int i=1;i<30;i++)
+		{
+			//value of a plus 1
+			a=a+1;
+		}
+			
+			//Print We are CPE on screen
+			Console.Write("We are CPE ");
+			//Print value of a on screen and line break
+			Console.WriteLine(a);
+	}
+}
